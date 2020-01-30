@@ -4,8 +4,6 @@ We encourage contributions of any kind. By participating in this project, you ag
 
 Contributions of code or documentation are covered by our [Contributor License Agreement (CLA)](https://libero.pub/governance/cla/). Please [sign the CLA](https://libero.pub/sign-cla) or make sure your employer has signed the CLA on your behalf. If you have questions about the CLA please email the team at libero@elifesciences.org.
 
-All Libero repositories will have further instructions in their own `CONTRIBUTING.md` file.
-
 # Code Contributions
 
 The basic steps for code contributions are:
