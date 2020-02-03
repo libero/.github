@@ -23,4 +23,4 @@ You can help your pull request be accepted by:
 - Following the coding standards - (e.g. [Libero coding standards](https://github.com/libero/eslint-config))
 - Writing [good commit messages](https://chris.beams.io/posts/git-commit/)
 
-To make a larger contribution, [create an issue on the Libero repo](https://github.com/libero/libero/issues/new/choose) or start a discussion on the [Libero Community Slack](https://libero-community.slack.com/). This helps to get early feedback on design and architecture.
+To make a larger contribution, [create an issue on the Libero repo](https://github.com/libero/community/issues/new/choose) or start a discussion on the [Libero Community Slack](https://libero-community.slack.com/). This helps to get early feedback on design and architecture.
